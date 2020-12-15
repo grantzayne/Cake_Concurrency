@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="aeron-client-1.12.0">
+    <archive path="C:/Users/zayne/IdeaProjects/Cakes/jars/aeron-client-1.12.0.jar" />
+    <archive path="C:/Users/zayne/IdeaProjects/Cakes/jars/aeron-driver-1.12.0.jar" />
+    <archive path="C:/Users/zayne/IdeaProjects/Cakes/jars/agrona-0.9.27.jar" />
+    <archive path="C:/Users/zayne/IdeaProjects/Cakes/jars/akka-actor_2.12-2.5.19.jar" />
+    <archive path="C:/Users/zayne/IdeaProjects/Cakes/jars/akka-cluster_2.12-2.5.19.jar" />
+    <archive path="C:/Users/zayne/IdeaProjects/Cakes/jars/akka-protobuf_2.12-2.5.19.jar" />
+    <archive path="C:/Users/zayne/IdeaProjects/Cakes/jars/akka-remote_2.12-2.5.19.jar" />
+    <archive path="C:/Users/zayne/IdeaProjects/Cakes/jars/akka-stream_2.12-2.5.19.jar" />
+    <archive path="C:/Users/zayne/IdeaProjects/Cakes/jars/akka-testkit_2.12-2.5.19.jar" />
+    <archive path="C:/Users/zayne/IdeaProjects/Cakes/jars/config-1.3.3.jar" />
+    <archive path="C:/Users/zayne/IdeaProjects/Cakes/jars/hamcrest-core-1.3.jar" />
+    <archive path="C:/Users/zayne/IdeaProjects/Cakes/jars/netty-3.10.6.Final.jar" />
+    <archive path="C:/Users/zayne/IdeaProjects/Cakes/jars/reactive-streams-1.0.2.jar" />
+    <archive path="C:/Users/zayne/IdeaProjects/Cakes/jars/scala-java8-compat_2.12-0.8.0.jar" />
+    <archive path="C:/Users/zayne/IdeaProjects/Cakes/jars/scala-library-2.12.8.jar" />
+    <archive path="C:/Users/zayne/IdeaProjects/Cakes/jars/scala-parser-combinators_2.12-1.1.1.jar" />
+    <archive path="C:/Users/zayne/IdeaProjects/Cakes/jars/ssl-config-core_2.12-0.3.6.jar" />
+  </library>
+</eclipse-userlibraries>
+
